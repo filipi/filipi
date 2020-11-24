@@ -9,7 +9,7 @@ and database management. And I am currently pursuing a Ph.D. degree in Material 
 
 Specialties: Systems integration, heterogeneous networks, development and administration
 of SQL databases (specially PostgreSQL and Oracle). General automation, computer vision,
-robotics, manufacturing systems, CAD (specially Pro/Engineer) 
+robotics, manufacturing systems, CAD (specially PTC Creo Parametric) 
 
 And finally, I've just discoverd this special github feature in which the README.md file of a
 repository named after your username will render as your profile readme file.
