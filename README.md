@@ -5,7 +5,7 @@ PUCRS is located in the city of Porto Alegre, Brazil.
 
 I am a graduated Control and Automation Engineer with a Master´s degree in Computer Science,
 having more than 20 years of experience working with software development, Linux-based servers,
-and database management. And I am currently pursuing a Ph.D. degree in Material Sciences.
+and database management. And I also have a Ph.D. degree in Material Sciences.
 
 Specialties: Systems integration, heterogeneous networks, development and administration
 of SQL databases (specially PostgreSQL and Oracle). General automation, computer vision,
@@ -23,8 +23,8 @@ repository named after your username will render as your profile readme file.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on lots of things all at the same time
+- 🌱 I’m currently learning microservices and go lang
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
