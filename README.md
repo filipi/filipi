@@ -14,8 +14,9 @@ robotics, manufacturing systems, CAD (specially PTC Creo Parametric)
 And finally, I've just discoverd this special github feature in which the README.md file of a
 repository named after your username will render as your profile readme file.
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=filipi&show_icons=true" /></p>
 <!--
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=filipi&show_icons=true" /></p>
+
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=filipi&show_icons=true&theme=nightowl" /></p>
 ### Hi there 👋
 
